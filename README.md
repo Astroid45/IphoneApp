@@ -1,1 +1,1 @@
-# IphoneApp
+I uploaded all the files that are being used within the app including the pods and firebase files. Due to some of their sizes I had to compress them, so you will have to unzip some and if you run into any trouble you can contact me and ill try sending it another way. # IphoneApp
